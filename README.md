@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋  
+### I’m Mila  
 
-<!--
-**lucy-semenova/lucy-semenova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer | Cybersecurity Enthusiast | Lifelong Learner  
 
-Here are some ideas to get you started:
+I love breaking down complex topics. My focus is on frontend development backed by cybersecurity fundamentals.  
+This repository showcases my experiments, learning notes, and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+- React  
+- JavaScript  
+- Prompt Injections  
+- CompTIA Tech+
+
+## 💡 When I’m not coding
+- Teaching cybersecurity  
+- Playing CTFs  
+- Nerding out over languages & linguistics
+
+  ## 📊 GitHub Stats
+![Mila's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy-semenova&show_icons=true&theme=radical)
+
