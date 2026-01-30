@@ -17,6 +17,5 @@ This repository showcases my experiments, learning notes, and projects.
 - Playing CTFs  
 - Nerding out over languages & linguistics
 
-  ## 📊 GitHub Stats
-![Mila's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy-semenova&show_icons=true&theme=radical)
+  
 
