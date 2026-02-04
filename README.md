@@ -13,7 +13,6 @@ This repository showcases my experiments, learning notes, and projects.
 - CompTIA Tech+
 
 ## 💡 When I’m not coding
-- Teaching cybersecurity  
 - Playing CTFs  
 - Nerding out over languages & linguistics
 
