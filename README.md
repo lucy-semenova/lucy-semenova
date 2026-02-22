@@ -1,7 +1,7 @@
 ### Hi there 👋  
 ### I’m Mila  
 
-## Frontend Developer | Cybersecurity Enthusiast | Lifelong Learner  
+## Frontend Developer | Cybersecurity Specialist | Lifelong Learner  
 
 I love breaking down complex topics. My focus is on frontend development backed by cybersecurity fundamentals.  
 This repository showcases my experiments, learning notes, and projects.
